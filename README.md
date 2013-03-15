@@ -1,4 +1,2 @@
 emergelifecenter.com
 ====================
-
-emergelifecenter.com
