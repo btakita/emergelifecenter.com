@@ -1,0 +1,11 @@
+.title .state-background {
+  background-image: url(/img/emerge-background-title-full.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+  color: gray;
+}
+
+.title .reveal, .title .reveal h1, .title .reveal h2, .title .reveal h3 {
+  color: white;
+}
