@@ -1,49 +1,31 @@
-.title .state-background {
+.reveal .state-background {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+}
+
+.title .reveal .state-background {
   background-image: url(/img/emerge-background-title.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: 100%;
-  color: gray;
 }
 
-.emotional-health .state-background {
+.emotional-health .reveal .state-background {
   background-image: url(/img/emerge-background-emotional-health.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: 100%;
-  color: gray;
 }
 
-.mental-health .state-background {
+.mental-health .reveal .state-background {
   background-image: url(/img/emerge-background-mental-health.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: 100%;
-  color: gray;
 }
 
-.physical-health .state-background {
+.physical-health .reveal .state-background {
   background-image: url(/img/emerge-background-physical-health.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: 100%;
-  color: gray;
 }
 
-.social-health .state-background {
+.social-health .reveal .state-background {
   background-image: url(/img/emerge-background-social-health.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: 100%;
-  color: gray;
 }
 
-.spiritual-health .state-background {
+.spiritual-health .reveal .state-background {
   background-image: url(/img/emerge-background-spiritual-health.png);
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: 100%;
-  color: gray;
 }
 
 .title .reveal, .title .reveal h1, .title .reveal h2, .title .reveal h3 {
