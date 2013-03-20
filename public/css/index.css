@@ -5,6 +5,7 @@
 }
 
 .title .reveal .state-background {
+  background-size: 100%;
   background-image: url(/img/emerge-title-background.png);
 }
 
