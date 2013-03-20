@@ -1,31 +1,35 @@
 .reveal .state-background {
   background-repeat: no-repeat;
   background-position: center center;
-  background-size: 100%;
+  background-size: contain;
 }
 
 .title .reveal .state-background {
-  background-image: url(/img/emerge-background-title.png);
+  background-image: url(/img/emerge-title-background.png);
+}
+
+.dimensions-of-health-index .reveal .state-background {
+  background-image: url(/img/emerge-dimensions-of-health-index-background.png);
 }
 
 .emotional-health .reveal .state-background {
-  background-image: url(/img/emerge-background-emotional-health.png);
+  background-image: url(/img/emerge-emotional-health-background.png);
 }
 
 .mental-health .reveal .state-background {
-  background-image: url(/img/emerge-background-mental-health.png);
+  background-image: url(/img/emerge-mental-health-background.png);
 }
 
 .physical-health .reveal .state-background {
-  background-image: url(/img/emerge-background-physical-health.png);
+  background-image: url(/img/emerge-physical-health-background.png);
 }
 
 .social-health .reveal .state-background {
-  background-image: url(/img/emerge-background-social-health.png);
+  background-image: url(/img/emerge-social-health-background.png);
 }
 
 .spiritual-health .reveal .state-background {
-  background-image: url(/img/emerge-background-spiritual-health.png);
+  background-image: url(/img/emerge-spiritual-health-background.png);
 }
 
 .title .reveal, .title .reveal h1, .title .reveal h2, .title .reveal h3 {
