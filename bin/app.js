@@ -26,7 +26,7 @@ function appConfigure() {
     app.set("config", config);
     app.set('port', config.port);
     app.use(connect.compress());
-    app.use(express.favicon(ctx.rootDir + '/public/favicon.ico'));
+    app.use(express.favicon(ctx.rootDir + '/public/img/favicon.ico'));
     app.use(express.logger('dev'));
     app.use(express.bodyParser());
     app.use(express.methodOverride());
