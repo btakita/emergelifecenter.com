@@ -33,6 +33,10 @@
   background-image: url(/img/emerge-spiritual-health-background.png);
 }
 
-.title .reveal, .title .reveal h1, .title .reveal h2, .title .reveal h3 {
-  color: white;
+.reveal h1, .reveal h2, .reveal h3, .reveal p, .reveal a {
+  text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
 }
