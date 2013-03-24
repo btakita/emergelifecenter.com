@@ -108,7 +108,7 @@
 
       function render() {
         ctx.camera.lookAt( ctx.scene.position );
-        ctx.group.rotation.y -= 0.0001;
+        ctx.group.rotation.y -= 0.00005;
         ctx.renderer.render( ctx.scene, ctx.camera );
       }
 
